@@ -12,6 +12,6 @@ The notebook contains the following programs:
 
 3. **Stock Market Prediction:** This program focuses on predicting stock market trends. It employs data analysis and machine learning techniques to make predictions about future stock prices.
 
-## Program Links
+## Link to the Programs
 
 - [Colab Notebook - Foundation of Data Science Assignment](https://colab.research.google.com/github/shrutin567/Foundation-of-Data-Science-Assignment/blob/main/fds_assignment.ipynb)
