@@ -1,4 +1,4 @@
-**Foundation-of-Data-Science-Assignment**
+**Foundation of Data Science Assignment**
 
 This repository contains the source code and materials for various data science assignments, all conveniently organized within a single Jupyter Colab notebook.
 
