@@ -1,6 +1,6 @@
 # Foundation of Data Science Assignment
 
-This repository contains assignments completed as part of the Foundation of Data Science course in the 2nd year of my undergrad. 
+This repository contains programs included in the assignment completed as part of the Foundation of Data Science course in the 2nd year of my undergrad. 
 
 The assignments are implemented in a single Colab notebook named `fds_assignment.ipynb`.
 
